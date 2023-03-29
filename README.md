@@ -37,7 +37,7 @@ https://drive.google.com/file/d/1RFIGZxvAvrL0YZ0baVAaz2KJX784B6dJ/view
  
   ## Questions 
 
-  Author of this program: github.com/Satalae 
+  Author of this program: https://github.com/Satalae 
 
   For any inquiries: harrison19988@gmail.com 
  
