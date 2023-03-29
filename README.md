@@ -1,37 +1,50 @@
 # Dogject 
- 
+![license](https://img.shields.io/badge/MIT-License-blue)
+## Description 
 
-  ## Description 
-
-  Dogs doing dog things 
+  It does dog things 
  
 
   ## Table of Contents 
  
-  [Installation](#installation)
+  [Installation](#installation) 
 
   [Usage](#usage) 
 
-  [Instructions](#instructions) 
-
   [Contributions](#contribution) 
+
+  [Instructions](#how_to_use) 
+
+  [Questions](#questions) 
+
+  [Licensing](#license) 
  
 
   ## Installation 
 
-  pet dog should work 
+  you just bark and it works 
  
 
   ## Usage 
 
-  does dog things 
- 
-
-  ## Instructions 
-
-  pet dog 
+  you will do dog things 
  
 
   ## Contribution 
 
-  leave a stick
+  doggerton 
+ 
+ 
+  ## How to use 
+
+  node dogdex.js 
+ 
+
+  ## Questions 
+
+  Author of this program: github.com/Satalae 
+
+  For any inquiries: SatalaeS@gmail.com 
+ 
+## License 
+ https://mit-license.org/
