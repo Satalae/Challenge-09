@@ -8,7 +8,6 @@ const questions = [
     'Please enter a title for your project: ',
     'Please enter a short description for your project: ',
     'Please enter installation instructions for your project: ',
-    'Please enter some usage information for your project: ',
     'Please enter your contribution guidelines: ',
     'Please enter instructions to test your project: ',
     'Please select the liscence your application uses: ',
@@ -46,35 +45,30 @@ function init() {
                 message: questions[2],
             },
             {
-                name: 'usage',
+                name: 'contributions',
                 type: 'input',
                 message: questions[3],
             },
             {
-                name: 'contributions',
-                type: 'input',
-                message: questions[4],
-            },
-            {
                 name: 'instructions',
                 type: 'input',
-                message: questions[5],
+                message: questions[4],
             },
             {
                 name: 'license',
                 type: 'list',
                 choices: ['None', 'MIT', 'Apache 2.0', 'BSD', 'GPL'],
-                message: questions[6],
+                message: questions[5],
             },
             {
                 name: 'username',
                 type: 'input',
-                message: questions[7],
+                message: questions[6],
             },
             {
                 name: 'email',
                 type: 'input',
-                message: questions[8],
+                message: questions[7],
             },
         ])
         .then((answer) => {

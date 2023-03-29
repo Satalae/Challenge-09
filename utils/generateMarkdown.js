@@ -73,21 +73,18 @@ function generateMarkdown(data) {
   ${data.description} \n \n
   ## Table of Contents \n 
   [Installation](#installation) \n
-  [Usage](#usage) \n
   [Contributions](#contribution) \n
-  [Instructions](#how_to_use) \n
+  [Instructions](#walkthrough) \n
   [Questions](#questions) \n
   [Licensing](#licensing) \n \n
   ## Installation \n
   ${data.install} \n \n
-  ## Usage \n
-  ${data.usage} \n \n
+  ## Walkthrough \n
+  ${data.instructions} \n \n
   ## Contribution \n
   ${data.contributions} \n \n 
-  ## How to use \n
-  ${data.instructions} \n \n
   ## Questions \n
-  Author of this program: github.com/${data.username} \n
+  Author of this program: https://github.com/${data.username} \n
   For any inquiries: ${data.email} \n \n` + 
   renderLicenseSection(data.license);
 
